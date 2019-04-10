@@ -1,1 +1,1 @@
-# techtalk-infrastructure-live-squad
+# Terragrunt infrastructure live
